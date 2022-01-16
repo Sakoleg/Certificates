@@ -5,4 +5,4 @@ My learning progress
 Алгоритмы: теория и практика. Методы - https://stepik.org/cert/865506
 Основы Git - https://stepik.org/cert/886724
 Python: основы и применение - https://stepik.org/cert/977026
-Алгоритмы: теория и практика. Структуры данных - https://stepik.org/cert/1041396
+Алгоритмы: теория и практика. Структуры данных - https://stepik.org/cert/1041396Инди-курс программирования на Python от egoroff_channel - https://stepik.org/cert/1184268
