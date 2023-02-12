@@ -6,3 +6,4 @@ My learning progress
 Основы Git - https://stepik.org/cert/886724
 Python: основы и применение - https://stepik.org/cert/977026
 Алгоритмы: теория и практика. Структуры данных - https://stepik.org/cert/1041396Инди-курс программирования на Python от egoroff_channel - https://stepik.org/cert/1184268
+Go (Golang) - первое знакомство - https://stepik.org/cert/1933133
